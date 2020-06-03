@@ -2,7 +2,7 @@
 
 Week planing app.
 
-![alt text](https://github.com/D3j4-Vu/Lanfeek/Sample_images/Now.png?raw=true)
+![alt text](https://github.com/D3j4-Vu/Lanfeek/blob/master/Sample_images/Now.png?raw=true)
 
 # Release notes:
 
