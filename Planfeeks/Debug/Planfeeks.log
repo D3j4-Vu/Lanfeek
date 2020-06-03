@@ -1,0 +1,216 @@
+﻿  do_tasks.cpp
+  sw_columns.cpp
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\columns\sw_columns.cpp(18,69): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  sw_days.cpp
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\columns\sw_columns.cpp(44,43): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\columns\sw_columns.cpp(44,43): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\columns\sw_columns.cpp(44,43): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\columns\sw_columns.cpp(44,43): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\columns\sw_columns.cpp(44,43): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\days\sw_days.cpp(24,63): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  horizontal.cpp
+  screen_swipe.cpp
+  sw_rows.cpp
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\days\sw_days.cpp(51,37): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\days\sw_days.cpp(51,37): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\days\sw_days.cpp(51,37): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\days\sw_days.cpp(51,37): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\horizontal\days\sw_days.cpp(51,37): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(8,40): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(8,40): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(8,40): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(8,40): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(8,40): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(20,68): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(35,22): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  vertical.cpp
+  shut_down_app.cpp
+  events.cpp
+  left_button.cpp
+  mouse.cpp
+  window.cpp
+  colors.cpp
+  materials.cpp
+  parameters.cpp
+  shape_column.cpp
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(55,37): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(55,37): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(55,37): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(55,37): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\events\do_tasks\screen_swipe\vertical\rows\sw_rows.cpp(55,37): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(16,25): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(24,37): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(24,37): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(24,37): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(24,37): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(24,37): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(24,29): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(24,29): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(24,29): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(24,29): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(24,29): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(25,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(25,20): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  shape_row.cpp
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\column\shape_column.cpp(28,28): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(19,25): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(26,37): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(26,37): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(26,37): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(26,37): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(26,37): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(26,29): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(26,29): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(26,29): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(26,29): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(26,29): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(27,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(27,20): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  shapes.cpp
+  fonts.cpp
+  for_main_screen.cpp
+  Generating Code...
+  Compiling...
+  text_day.cpp
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\shapes\row\shape_row.cpp(30,28): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(6,55): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(6,55): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(6,55): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(6,55): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(6,55): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(7,55): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(7,55): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(7,55): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(7,55): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(7,55): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(32,26): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(32,19): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(42,45): warning C4244:  '=': conversion from 'T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(42,45): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(42,45): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(42,45): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(42,45): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(43,44): warning C4244:  '=': conversion from 'T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(43,44): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(43,44): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(43,44): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(43,44): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(44,32): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  text_hour.cpp
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_day\text_day.cpp(44,17): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(6,49): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(6,49): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(6,49): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(6,49): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(6,49): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(7,49): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(7,49): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(7,49): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(7,49): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(7,49): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(31,26): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(31,19): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(41,45): warning C4244:  '=': conversion from 'T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(41,45): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(41,45): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(41,45): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(41,45): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(42,44): warning C4244:  '=': conversion from 'T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(42,44): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(42,44): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(42,44): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(42,44): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(43,32): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  texts.cpp
+  times.cpp
+  planfeeks_main.cpp
+  columns.cpp
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\materials\texts\for_main_screen\text_hour\text_hour.cpp(43,17): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(9,45): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(9,45): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(9,45): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(9,45): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(9,45): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(10,45): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(10,45): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(10,45): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(10,45): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(10,45): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(34,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(34,22): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(42,73): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(42,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(62,49): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(62,49): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(62,49): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(62,49): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(62,49): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(67,47): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  days.cpp
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\columns\columns.cpp(67,22): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(8,39): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(8,39): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(8,39): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(8,39): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(8,39): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(12,59): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(12,59): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(12,59): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(12,59): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(12,59): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(24,66): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(24,41): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(40,42): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(40,42): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(40,42): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(40,42): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(40,42): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(49,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  hours.cpp
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\days\days.cpp(49,19): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(10,41): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(10,41): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(10,41): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(10,41): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(10,41): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(11,41): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(11,41): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(11,41): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(11,41): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(11,41): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(27,63): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(27,22): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(36,45): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(36,45): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(36,45): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(36,45): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(36,45): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(41,39): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  rows.cpp
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\hours\hours.cpp(41,20): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(10,39): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(10,39): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(10,39): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(10,39): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(10,39): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(11,39): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(11,39): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(11,39): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(11,39): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(11,39): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(25,44): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(25,19): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(33,60): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(33,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(46,43): warning C4244:  '=': conversion from 'const T' to 'int', possible loss of data
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(46,43): warning C4244:         with
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(46,43): warning C4244:         [
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(46,43): warning C4244:             T=float
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(46,43): warning C4244:         ]
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(51,37): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  main_screen.cpp
+  rendering.cpp
+  main.cpp
+  Generating Code...
+D:\Projects\Calendar\Planfeeks\Planfeeks\Headers\rendering\main_screen\rows\rows.cpp(51,19): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Planfeeks.vcxproj -> D:\Projects\Calendar\Planfeeks\Debug\Planfeeks.exe
